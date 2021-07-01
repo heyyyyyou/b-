@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'tại vì cậu cuteee vl :<<<<<',
     mess: ' Tớ biết mà ^^. Yêu cậu nhiều nhiều <3333',
     messDesc: 'Be my lover nhá cậu.',
-    btnAccept: 'Okiiiii nhất trí lun <3',
+    btnAccept: 'Okiiiii nhất trí lunn <3',
     messLink: 'https://www.messenger.com/t/100027074075134/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
